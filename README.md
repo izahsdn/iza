@@ -21,8 +21,8 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <header>
-        <h1>Vai ser uma imagem aqui</h1>
+   <header>
+        <img src="" alt="">
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
